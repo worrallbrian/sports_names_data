@@ -1,5 +1,5 @@
 # Created by Brian Worrall
-# Date: 2020-09-08
+# Date: 2021-09-27
 
 # This repository contains exported SQL Table definitions and data for all AHL, CFL, MLB, NBA, NHL, and NHL teams as of this date.
 

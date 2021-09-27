@@ -194,7 +194,8 @@ INSERT INTO `sports_teams_copy` (`id`, `team`, `league`, `section`, `division`, 
 (160, 'San Diego Gulls', 'AHL', 'Western Conference', 'Pacific', 'Hockey', 'San Diego', 'California', 'USA'),
 (161, 'San Jose Barracuda', 'AHL', 'Western Conference', 'Pacific', 'Hockey', 'San Jose', 'California', 'USA'),
 (162, 'Stockton Heat', 'AHL', 'Western Conference', 'Pacific', 'Hockey', 'Stockton', 'California', 'USA'),
-(163, 'Tucson Roadrunners', 'AHL', 'Western Conference', 'Pacific', 'Hockey', 'Tucson', 'Arizona', 'USA');
+(163, 'Tucson Roadrunners', 'AHL', 'Western Conference', 'Pacific', 'Hockey', 'Tucson', 'Arizona', 'USA'),
+(164, 'Seattle Kraken', 'NHL', 'Western Conference', 'Pacific', 'Hockey', 'Seattle', 'Washington', 'USA');
 
 --
 -- Indexes for dumped tables

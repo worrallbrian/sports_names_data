@@ -194,7 +194,8 @@ INSERT INTO `sports_teams` (`id`, `team`, `league`, `section`, `division`, `spor
 (160, 'San Diego Gulls', 1, 7, 7, 4, 72, 4, 2),
 (161, 'San Jose Barracuda', 1, 7, 7, 4, 74, 4, 2),
 (162, 'Stockton Heat', 1, 7, 7, 4, 80, 4, 2),
-(163, 'Tucson Roadrunners', 1, 7, 7, 4, 85, 2, 2);
+(163, 'Tucson Roadrunners', 1, 7, 7, 4, 85, 2, 2),
+(164, 'Seattle Kraken', 6, 7, 7, 4, 76, 35, 2);
 
 --
 -- Indexes for dumped tables
