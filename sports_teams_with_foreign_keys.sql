@@ -38,7 +38,7 @@ INSERT INTO `sports_teams` (`id`, `team`, `league`, `section`, `division`, `spor
 (4, 'Tampa Bay Rays', 3, 3, 3, 1, 79, 8, 2),
 (5, 'Toronto Blue Jays', 3, 3, 3, 1, 84, 26, 1),
 (6, 'Chicago White Sox', 3, 3, 2, 1, 16, 10, 2),
-(7, 'Cleveland Indians', 3, 3, 2, 1, 18, 24, 2),
+(7, 'Cleveland Guardians', 3, 3, 2, 1, 18, 24, 2),
 (8, 'Detroit Tigers', 3, 3, 2, 1, 23, 17, 2),
 (9, 'Kansas City Royals', 3, 3, 2, 1, 36, 19, 2),
 (10, 'Minnesota Twins', 3, 3, 2, 1, 45, 18, 2),
