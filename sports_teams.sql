@@ -112,7 +112,7 @@ INSERT INTO `sports_teams` (`id`, `team`, `league`, `section`, `division`, `spor
 (78, 'Dallas Cowboys', 5, 5, 3, 3, 3, 33, 2),
 (79, 'New York Giants', 5, 5, 3, 3, 24, 21, 2),
 (80, 'Philadelphia Eagles', 5, 5, 3, 3, 58, 28, 2),
-(81, 'Washington Football Team', 5, 5, 3, 3, 37, 15, 2),
+(81, 'Washington Commanders', 5, 5, 3, 3, 37, 15, 2),
 (82, 'Chicago Bears', 5, 5, 5, 3, 16, 10, 2),
 (83, 'Detroit Lions', 5, 5, 5, 3, 23, 17, 2),
 (84, 'Green Bay Packers', 5, 5, 5, 3, 29, 36, 2),
