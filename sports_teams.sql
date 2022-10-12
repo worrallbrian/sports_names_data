@@ -131,7 +131,7 @@ INSERT INTO `sports_teams` (`id`, `team`, `league`, `section`, `division`, `spor
 (97, 'Toronto Argonauts', 2, 1, 3, 3, 84, 26, 1),
 (98, 'BC Lions', 2, 1, 11, 3, 87, 3, 1),
 (99, 'Calgary Stampeders', 2, 1, 11, 3, 12, 1, 1),
-(100, 'Edmonton Eskimos', 2, 1, 11, 3, 25, 1, 1),
+(100, 'Edmonton Elks', 2, 1, 11, 3, 25, 1, 1),
 (101, 'Saskatchewan Roughriders', 2, 1, 11, 3, 64, 31, 1),
 (102, 'Winnipeg Blue Bombers', 2, 1, 11, 3, 90, 14, 1),
 (103, 'Boston Celtics', 4, 4, 1, 2, 9, 16, 2),
